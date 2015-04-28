@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1430090023 source:c:\users\other people\beck_csci2270_finalproject\main.cpp
+	<iostream>
+	<string>
+	"MarkovChain.h"
+
+1430091780 source:c:\users\other people\beck_csci2270_finalproject\markovchain.cpp
+	"MarkovChain.h"
+	<map>
+	<vector>
+	<iostream>
+	<queue>
+	<fstream>
+	<sstream>
+	<random>
+
+1430090043 c:\users\other people\beck_csci2270_finalproject\markovchain.h
+	<map>
+	<vector>
+	<string>
+
+1430197905 source:/home/user/BECK_CSCI2270_FinalProject/MarkovChain.cpp
+	"MarkovChain.h"
+	<map>
+	<vector>
+	<iostream>
+	<queue>
+	<fstream>
+	<sstream>
+	<random>
+	<time.h>
+
+1430197905 /home/user/BECK_CSCI2270_FinalProject/MarkovChain.h
+	<map>
+	<vector>
+	<string>
+
+1430198556 source:/home/user/BECK_CSCI2270_FinalProject/main.cpp
+	<iostream>
+	<string>
+	"MarkovChain.h"
+
+1430190038 source:/home/user/Desktop/BECK_CSCI2270_FinalProject/main.cpp
+	<iostream>
+	<string>
+	"MarkovChain.h"
+
+1430190038 /home/user/Desktop/BECK_CSCI2270_FinalProject/MarkovChain.h
+	<map>
+	<vector>
+	<string>
+
+1430195585 source:/home/user/Desktop/BECK_CSCI2270_FinalProject/MarkovChain.cpp
+	"MarkovChain.h"
+	<map>
+	<vector>
+	<iostream>
+	<queue>
+	<fstream>
+	<sstream>
+	<random>
+	<time.h>
+
